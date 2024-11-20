@@ -14,7 +14,7 @@ const Featuresec = ()=>{
             
      <div className="flex flex-wrap mt-10 lg:mt-20">
             <div className="flex flex-wrap">
-            <Card logo="✔" text="Research Proposal Workings" desc="We craft clear and concise research proposals to set your work on the right part" />
+            <Card logo="✔" text="Research Proposal" desc="We craft clear and concise research proposals to set your work on the right part" />
             <Card logo="✔" text="Data Analysis & Interpretaton" desc="We analyse your data intepret results and provde impactful discussion" />
             <Card logo="✔" text="CITI Program Certificate" desc="Get guidance on research ethics and securing necessary certfications" />
             <Card logo="✔" text="Ethical Approval Guidelines" desc="Comprehensive support to refine and perfect your research and projects" />
