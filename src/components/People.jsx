@@ -11,8 +11,8 @@ const Testimony = ()=>{
                Meet Our Team
             </h2>
         <div className="flex flex-start justify-center flex-wrap">
-        <Card3 name="Okunola Olubanjo" role='Central Executive Officer' sc={mage3}/>
-        <Card3 name="Adedokun Marvellous" role='Central Executive Officer' sc={mage31}/>
+        <Card3 name="Okunola Olubanjo" role='Founder' sc={mage3}/>
+        <Card3 name="Adedokun Marvellous" role='Founder' sc={mage31}/>
         <Card3 name="Olubiyi David" role='Front End Developer' sc={mage33}/>
         </div>
         </div>
