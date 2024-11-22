@@ -19,7 +19,7 @@ const Herosec = () =>
     </h1>
     <p className="mt-3 text-lg text-center mb-1 text-neutral-500 max-w-4xl">
         Our expert team specializes in research proposals and care studies, offering top-notch support to help
-        you excel academcally. </p>
+        you excel academically. </p>
     <div className="flex justify-center mx-10">
         <a href={whatsappLink} className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 my-1 rounded-md">
         Get Started
